@@ -9,7 +9,6 @@ El sistema utiliza **ESP32** y la comunicación **ESP-NOW** para enviar los dato
 
 ## Diagrama de Estados (FSM)
 
-![FSM](img/fsm_apnea.png)
 
 > Este diagrama muestra los estados de los sensores (Micrófono y Piezo) y la activación del buzzer.
 
